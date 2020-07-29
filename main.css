@@ -1,0 +1,14 @@
+
+
+
+main{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+#buttons{
+    margin-left: 5rem;
+}
+.hex-button{
+    margin-right: 5rem;
+}
